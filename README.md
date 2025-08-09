@@ -1,9 +1,3 @@
-
-    <img width="128" src="/assets/logo.png" alt="Simple Live logo">
-</p>
-<h2 align="center">Simple Live</h2>
-
-<p align="center">
 简简单单的看直播
 </p>
 
